@@ -1,7 +1,0 @@
-{
-  "version": 3,
-  "sources": ["../../../../../apps/my_custom_app/my_custom_app/public/js/quotation.js"],
-  "sourcesContent": ["frappe.provide(\"my_custom_app.quotation\");\nmy_custom_app.quotation.display_policy = function(frm){\n    frm.set_intro(\"Quotationer/ Quotationers shall quote his/their rates with reference to item as per Annexure. B. 3\")\n}\n"],
-  "mappings": ";;AAAA,SAAO,QAAQ,yBAAyB;AACxC,gBAAc,UAAU,iBAAiB,SAAS,KAAI;AAClD,QAAI,UAAU,oGAAoG;AAAA,EACtH;",
-  "names": []
-}
